@@ -12,10 +12,3 @@ My name is Candice Pan (Hsin Yu). I am a Business Analytic and Information Manag
 # [Project 3 : Bankrupcy Prediction - Kaggle Competition](https://www.kaggle.com/c/fall2020-mgmt571lec-project/leaderboard)
 Ranked 2nd place in the competition with AUC scroe : 0.82488
 
-
-# Project 4 : Caso Eats Business Plan
-
-
-# Project 5 : Australia Men's Open Final - Tableau
-
-
