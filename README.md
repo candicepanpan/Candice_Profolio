@@ -5,7 +5,7 @@ My name is Candice Pan (Hsin Yu). I am a Business Analytic and Information Manag
 [Video](https://youtu.be/gNM4gv9qhSQ)
 
 
-# Project 2 : GoFundMe Fundraising - Python
+# [Project 2 : GoFundMe Fundraising - Python](https://github.com/candicepanpan/GoFundMe-Fundraiser)
 [Video](https://youtu.be/PEwRda82-ps)
 
 
@@ -14,7 +14,6 @@ Ranked 2nd place in the competition (featureAnalytic) Scroe : 0.82488
 
 
 # Project 4 : Caso Eats Business Plan
-
 
 
 # Project 5 : Australia Men's Open Final - Tableau
