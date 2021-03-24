@@ -1,7 +1,7 @@
+![](images/1612052746236.jpg)
+
 My name is Candice Pan. I am a Business Analytic and Information Management graduate from Krannert School of Management, Purdue University. I have courage and fearlessness in diving into code I don't know, which drives me to explore new things to leverage my programming skill. 
 
-
-![](images/1612052746236.jpg)
 
 # [Predict cannibalization rate on Jindong.com - R](https://github.com/candicepanpan/CPG_project)
 [Poster](https://github.com/candicepanpan/CPG_project/blob/main/2021%20IP-CPGposter%20final.pdf)
