@@ -6,6 +6,7 @@ My name is Candice Pan. I am a Business Analytic and Information Management grad
 [Poster](https://github.com/candicepanpan/CPG_project/blob/main/2021%20IP-CPGposter%20final.pdf)
 * In collaboration with a multinational CPG company that sells its products on Jindong.com (China largest e-Commerce platform), the project aims to
 help to minimize the effect of cannibazalition and optimize the cannibalization rate by using both statistical and machine learning models (GBM and random forest).
+Create R shinyapp Dashboard for company to use
 
 
 # [Used Car Price Recommendation System - Python](https://github.com/candicepanpan/Used-Car-price-recommendation-system)
@@ -14,11 +15,11 @@ help to minimize the effect of cannibazalition and optimize the cannibalization 
 
 # [MS in Analytic Program and Student Demographic - R ](https://pan351.shinyapps.io/masterprogram/)
 [Video](https://youtu.be/gNM4gv9qhSQ)
-* Indifited the relationship between Student Demographic and Master of Analytics program at United State. Create R ShinyApp to help to understand the linear regression between 
+* Indifited the relationship between Student Demographic and Master of Analytics program at United State. Create R ShinyApp to help to understand the linear regression between percentage of women vs avg cost of tutions and student work months. 
 
 # [GoFundMe Fundraising - Python](https://github.com/candicepanpan/GoFundMe-Fundraiser)
 [Video](https://youtu.be/PEwRda82-ps)
-* Scrape data from GoFundMe website
+* Scrape data from GoFundMe website and build descriptive and predict model (linear regression) to increase fundraising successful rate by 10%. 
 
 # [Bankrupcy Prediction - Kaggle Competition - SAS Enterprise](https://www.kaggle.com/c/fall2020-mgmt571lec-project/leaderboard)
 * Ranked 2nd place in the competition with AUC scroe : 0.82488
