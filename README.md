@@ -1,6 +1,6 @@
-[](https://github.com/candicepanpan/Candice_Profolio/blob/main/1612052746236.jpeg)
 My name is Candice Pan. I am a Business Analytic and Information Management graudate from Krannart School of Management, Purdue University. I have courage and fearless in diving into code I don't know which drives me explore new things in order to leverage my programming skill. 
 [LinkedIn](https://www.linkedin.com/in/candice-hsin-yu-pan-15a2b8114/)
+[](https://github.com/candicepanpan/Candice_Profolio/blob/main/1612052746236.jpeg)
 
 # [CPG Company | e-commerce retail - R](https://github.com/candicepanpan/CPG_project)
 [Poster](https://github.com/candicepanpan/CPG_project/blob/main/2021%20IP-CPGposter%20final.pdf)
