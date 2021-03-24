@@ -21,5 +21,7 @@ Ranked 2nd place in the competition with AUC scroe : 0.82488
 
 
 Email : candicepanpan@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/candice-hsin-yu-pan-15a2b8114/)
+
 [TableauPublic](https://public.tableau.com/profile/candice.panpan#!/)
