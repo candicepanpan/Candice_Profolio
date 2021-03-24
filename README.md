@@ -10,15 +10,18 @@ help to minimize the effect of cannibazalition and optimize the cannibalization 
 
 # [Used Car Price Recommendation System - Python](https://github.com/candicepanpan/Used-Car-price-recommendation-system)
 [Code](https://github.com/candicepanpan/Used-Car-price-recommendation-system)
+*
 
 # [MS in Analytic Program and Student Demographic - R ](https://pan351.shinyapps.io/masterprogram/)
 [Video](https://youtu.be/gNM4gv9qhSQ)
+*
 
 # [GoFundMe Fundraising - Python](https://github.com/candicepanpan/GoFundMe-Fundraiser)
 [Video](https://youtu.be/PEwRda82-ps)
+*
 
 # [Bankrupcy Prediction - Kaggle Competition - SAS Enterprise](https://www.kaggle.com/c/fall2020-mgmt571lec-project/leaderboard)
-Ranked 2nd place in the competition with AUC scroe : 0.82488
+* Ranked 2nd place in the competition with AUC scroe : 0.82488
 
 
 
