@@ -1,4 +1,4 @@
-My name is Candice Pan. I am a Business Analytic and Information Management graudate from Krannart School of Management, Purdue University. I have courage and fearless in diving into code I don't know which drives me explore new things in order to leverage my programming skill. 
+My name is Candice Pan. I am a Business Analytic and Information Management graduate from Krannert School of Management, Purdue University. I have courage and fearlessness in diving into code I don't know, which drives me to explore new things to leverage my programming skill. 
 
 
 ![](https://github.com/candicepanpan/Candice_Profolio/blob/main/1612052746236.jpeg)
