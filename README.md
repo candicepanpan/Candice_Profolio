@@ -10,15 +10,15 @@ help to minimize the effect of cannibazalition and optimize the cannibalization 
 
 # [Used Car Price Recommendation System - Python](https://github.com/candicepanpan/Used-Car-price-recommendation-system)
 [Code](https://github.com/candicepanpan/Used-Car-price-recommendation-system)
-*
+* Create a price recommendation system by using python to help car dealer to estimate used car price in United State. Build the sytsem with multiple python packages (pandas, matplotlib, numpy and seaborn).
 
 # [MS in Analytic Program and Student Demographic - R ](https://pan351.shinyapps.io/masterprogram/)
 [Video](https://youtu.be/gNM4gv9qhSQ)
-*
+* Indifited the relationship between Student Demographic and Master of Analytics program at United State. Create R ShinyApp to help to understand the linear regression between 
 
 # [GoFundMe Fundraising - Python](https://github.com/candicepanpan/GoFundMe-Fundraiser)
 [Video](https://youtu.be/PEwRda82-ps)
-*
+* Scrape data from GoFundMe website
 
 # [Bankrupcy Prediction - Kaggle Competition - SAS Enterprise](https://www.kaggle.com/c/fall2020-mgmt571lec-project/leaderboard)
 * Ranked 2nd place in the competition with AUC scroe : 0.82488
