@@ -4,7 +4,7 @@ My name is Candice Pan. I am a Business Analytic and Information Management grau
 
 ![](https://github.com/candicepanpan/Candice_Profolio/blob/main/1612052746236.jpeg)
 
-# [CPG Company | e-commerce retail - R](https://github.com/candicepanpan/CPG_project)
+# [Predict cannibalization rate on Jindong.com | e-commerce - R](https://github.com/candicepanpan/CPG_project)
 [Poster](https://github.com/candicepanpan/CPG_project/blob/main/2021%20IP-CPGposter%20final.pdf)
 
 # [Used Car Price Recommendation System - Python](https://github.com/candicepanpan/Used-Car-price-recommendation-system)
