@@ -1,5 +1,4 @@
 My name is Candice Pan. I am a Business Analytic and Information Management graudate from Krannart School of Management, Purdue University. I have courage and fearless in diving into code I don't know which drives me explore new things in order to leverage my programming skill. 
-[LinkedIn](https://www.linkedin.com/in/candice-hsin-yu-pan-15a2b8114/)
 
 
 ![](https://github.com/candicepanpan/Candice_Profolio/blob/main/1612052746236.jpeg)
@@ -21,3 +20,6 @@ Ranked 2nd place in the competition with AUC scroe : 0.82488
 
 
 
+Email : candicepanpan@gmail.com
+[LinkedIn](https://www.linkedin.com/in/candice-hsin-yu-pan-15a2b8114/)
+[TableauPublic](https://public.tableau.com/profile/candice.panpan#!/)
