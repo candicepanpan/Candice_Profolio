@@ -5,6 +5,8 @@ My name is Candice Pan. I am a Business Analytic and Information Management grad
 
 # [Predict cannibalization rate on Jindong.com | e-commerce - R](https://github.com/candicepanpan/CPG_project)
 [Poster](https://github.com/candicepanpan/CPG_project/blob/main/2021%20IP-CPGposter%20final.pdf)
+* In collaboration with a multinational CPG company that sells its products on Jindong.com (China largest e-Commerce platform), the project aims to
+help to minimize the effect of cannibazalition and optimize the cannibalization rate by using both statistical and machine learning models (GBM and random forest).
 
 # [Used Car Price Recommendation System - Python](https://github.com/candicepanpan/Used-Car-price-recommendation-system)
 [Code](https://github.com/candicepanpan/Used-Car-price-recommendation-system)
